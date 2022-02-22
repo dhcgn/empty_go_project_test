@@ -1,0 +1,27 @@
+module dev.azure.com/haevg-rz/hpm_kern
+
+go 1.16
+
+require (
+	code.cloudfoundry.org/clock v1.0.0 // indirect
+	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
+	github.com/denisbrodbeck/machineid v1.0.1
+	github.com/dhcgn/dockerdetector v0.0.3
+	github.com/fatih/color v1.13.0
+	github.com/gofrs/uuid v4.2.0+incompatible // indirect
+	github.com/gorilla/mux v1.8.0
+	github.com/joho/godotenv v1.4.0
+	github.com/julienschmidt/httprouter v1.3.0
+	github.com/mattn/go-colorable v0.1.12 // indirect
+	github.com/microsoft/ApplicationInsights-Go v0.4.4
+	github.com/patrickmn/go-cache v2.1.0+incompatible
+	github.com/sirupsen/logrus v1.8.1
+	github.com/stretchr/testify v1.7.0
+	github.com/urfave/cli/v2 v2.3.0
+	golang.org/x/crypto v0.0.0-20210812204632-0ba0e8f03122
+	golang.org/x/sys v0.0.0-20211025201205-69cdffdb9359
+	golang.org/x/text v0.3.7
+	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
+	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	software.sslmate.com/src/go-pkcs12 v0.0.0-20210415151418-c5206de65a78
+)
